@@ -1,0 +1,28 @@
+{
+  "name": "broccoli-frontmatter",
+  "version": "0.0.0",
+  "description": "extract frontmatter into a json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adamwong246/broccoli-frontmatter.git"
+  },
+  "keywords": [
+    "broccoli",
+    "frontmatter",
+    "yfm",
+    "json"
+  ],
+  "author": "adamwong246",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamwong246/broccoli-frontmatter/issues"
+  },
+  "homepage": "https://github.com/adamwong246/broccoli-frontmatter",
+  "dependencies": {
+    "broccoli-writer": "^0.1.1"
+  }
+}
